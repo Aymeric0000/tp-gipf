@@ -46,10 +46,10 @@ jar {
 }
 
 sonar {
-    properties {
-        property "sonar.projectKey", "Gipf"
-        property "sonar.projectName", "Gipf"
-    }
+  properties {
+    property "sonar.projectKey", "Oui5"
+    property "sonar.projectName", "Oui5"
+  }
 }
 
 jacocoTestReport {
